@@ -19,8 +19,7 @@ The dashboard provides insights such as:
 - screenshots/ – Dashboard screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard](<img width="1336" height="752" alt="image" src="https://github.com/user-attachments/assets/c5f1ab1e-d67e-4619-9768-9263f41a9c87" />
-)
+![Dashboard](<img width="1336" height="752" alt="image" src="https://github.com/user-attachments/assets/c5f1ab1e-d67e-4619-9768-9263f41a9c87" />)
 (<img width="1322" height="342" alt="image" src="https://github.com/user-attachments/assets/36570447-ab44-484a-af6a-8798cef6e749" />
 )
 
