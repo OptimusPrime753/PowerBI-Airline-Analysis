@@ -19,9 +19,9 @@ The dashboard provides insights such as:
 - screenshots/ – Dashboard screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard](<img width="1336" height="752" alt="image" src="https://github.com/user-attachments/assets/c5f1ab1e-d67e-4619-9768-9263f41a9c87" />)
-(<img width="1322" height="342" alt="image" src="https://github.com/user-attachments/assets/36570447-ab44-484a-af6a-8798cef6e749" />
-)
+![Dashboard]<img width="741" height="411" alt="image" src="https://github.com/user-attachments/assets/e7adf358-5ad9-4097-a882-474a73201071" />, <img width="1326" height="746" alt="image" src="https://github.com/user-attachments/assets/8a16eeb1-b715-40ee-91e4-e724470c74b0" />
+
+
 
 ## How to Use
 1. Download the PBIX file
